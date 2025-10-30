@@ -18,10 +18,6 @@ I specialize in **computational mechanics**, **dynamical systems**, **artificial
 ---
 
 ## Proficient with:
-<p align="left">
-  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" alt="PyTorch" width="45" height="45"/>
-  <img src="https://cdn.simpleicons.org/pytorch/3C2179" alt="PyG" width="45" height="45"/>
-</p>
 
 
 ---
