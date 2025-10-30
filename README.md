@@ -19,11 +19,10 @@ I specialize in **computational mechanics**, **dynamical systems**, **artificial
 
 ## 💻 Technical Expertise
 
-### 🧩 Deep Learning Frameworks
+### Deep Learning Frameworks
 <p align="left">
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch%20Lightning-%23FFCA28.svg?style=for-the-badge&logo=pytorchlightning&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Weights_&_Biases-%23FFBE00.svg?style=for-the-badge&logo=weightsandbiases&logoColor=black"/>
   <img src="https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 </p>
