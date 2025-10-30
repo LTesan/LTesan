@@ -17,22 +17,14 @@ I specialize in **computational mechanics**, **dynamical systems**, **artificial
 
 ---
 
-## 💻 Technical Expertise
-
-### Deep Learning Frameworks
+## Proficient with:
+<!-- Example: PyTorch, PyTorch Lightning, W&B -->
 <p align="left">
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch%20Lightning-792EE5?style=for-the-badge&logo=pytorchlightning&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Weights_&_Biases-%23FFBE00.svg?style=for-the-badge&logo=weightsandbiases&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://raw.githubusercontent.com/pytorch/pytorch/main/docs/source/_static/img/pytorch-logo-dark.png" alt="PyTorch" width="60" height="60"/>
+  <img src="https://pytorch-lightning.readthedocs.io/en/stable/_images/logo.png" alt="PyTorch Lightning" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/wandb/assets/main/wandb-dots-logo.svg" alt="Weights & Biases" width="60" height="60"/>
 </p>
 
-### 🧠 Areas of Proficiency
-- Design and implementation of **Message Passing Neural Networks (MPNNs)** for physical systems  
-- Development of **Neural Operators** for operator learning and surrogate modeling  
-- Training and regularization of **Variational Neural Networks** for latent physics discovery  
-- Application of **PINNs** for solving PDE-governed systems and hybrid learning  
-- Integration of **AI models** within physics-based solvers for **real-time digital twins**
 
 ---
 
