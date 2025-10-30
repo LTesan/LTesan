@@ -10,7 +10,7 @@ I specialize in **computational mechanics**, **dynamical systems**, **artificial
 
 - ⚙️ **Real-time simulation** & model order reduction  
 - 🧠 **Scientific Machine Learning (SciML)** & **Physics-Informed Neural Networks (PINNs)**  
-- 🔗 **Neural Operators** (DeepONets, Fourier Operators, etc.)  
+- 🔗 **Neural Operators** 
 - 🌐 **Message Passing Neural Networks (MPNNs)** & **Graph Neural Networks (GNNs)**  
 - 🎲 **Variational Autoencoders (VAEs)** & **probabilistic representations** of physical systems  
 - 💡 **Hybrid AI** for physics-based modeling and digital twins  
