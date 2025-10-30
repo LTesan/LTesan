@@ -19,7 +19,7 @@ I specialize in **computational mechanics**, **dynamical systems**, **artificial
 
 ## Proficient with:
 <p align="center">
-  <img src="python.svg" alt="Python" width="55" height="55" style="fill:#3776AB;"/>
+  <img src="python.svg" alt="Python" width="55" height="55" style="fill:#3C2179;"/>
   <img src="anaconda.svg" alt="Anaconda" width="55" height="55" style="fill:#44A833;"/>
   <img src="pytorch.svg" alt="PyTorch" width="55" height="55" style="fill:#EE4C2C;"/>
   <img src="lightning.svg" alt="PyTorch Lightning" width="55" height="55" style="fill:#792EE5;"/>
