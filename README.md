@@ -22,7 +22,7 @@ I specialize in **computational mechanics**, **dynamical systems**, **artificial
 ### Deep Learning Frameworks
 <p align="left">
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch%20Lightning-%23FFCA28.svg?style=for-the-badge&logo=pytorchlightning&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch%20Lightning-792EE5?style=for-the-badge&logo=pytorchlightning&logoColor=white"/>
   <img src="https://img.shields.io/badge/Weights_&_Biases-%23FFBE00.svg?style=for-the-badge&logo=weightsandbiases&logoColor=black"/>
   <img src="https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 </p>
