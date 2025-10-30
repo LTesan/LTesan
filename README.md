@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Lucas Tesán**
+# 👋 Hi, I'm **Lucas**
 
 🎓 **PhD Student | Computational Mechanics & AI Researcher**  
 Mechanical Engineer with a **Master’s in Biomedical Engineering** from the **University of Zaragoza**.  
