@@ -21,12 +21,11 @@ I specialize in **computational mechanics**, **dynamical systems**, **artificial
 
 ### 🧩 Deep Learning Frameworks
 <p align="left">
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/PyTorch%20Lightning-%23FFCA28.svg?style=for-the-badge&logo=pytorchlightning&logoColor=white"/>
-  <img src="https://img.shields.io/badge/W%26B-%23FFBE00.svg?style=for-the-badge&logo=weightsandbiases&logoColor=black"/>
-  <img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Weights_&_Biases-%23FFBE00.svg?style=for-the-badge&logo=weightsandbiases&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 </p>
 
 ### 🧠 Areas of Proficiency
