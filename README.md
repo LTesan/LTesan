@@ -20,15 +20,15 @@ I specialize in **computational mechanics**, **dynamical systems**, **artificial
 ## 💻 Proficient with
 
 <p align="center">
-  <img src="python.svg" alt="Python" width="55" height="55" />
-  <img src="anaconda.svg" alt="Anaconda" width="55" height="55" />
-  <img src="pytorch.svg" alt="PyTorch" width="55" height="55" />
-  <img src="lightning.svg" alt="PyTorch Lightning" width="55" height="55" />
-  <img src="pyg.svg" alt="PyTorch Geometric" width="55" height="55" />
-  <img src="weightsandbiases.svg" alt="Weights & Biases" width="55" height="55" />
+  <img src="python.svg" alt="Python" width="55" height="55"/>
+  <img src="anaconda.svg" alt="Anaconda" width="55" height="55"/>
+  <img src="pytorch.svg" alt="PyTorch" width="55" height="55"/>
+  <img src="lightning.svg" alt="PyTorch Lightning" width="55" height="55"/>
+  <img src="pyg.svg" alt="PyTorch Geometric" width="55" height="55"/>
+  <img src="weightsandbiases.svg" alt="Weights & Biases" width="55" height="55"/>
 </p>
 
-*(If icons appear black, edit the `.svg` files to use `fill="currentColor"` or a static color inside the file itself — GitHub does not apply CSS or inline styles to external SVGs.)*
+*(If icons appear black, edit the `.svg` files to use `fill="currentColor"` or a static color inside the file — GitHub does not apply CSS or inline styles to external SVGs.)*
 
 ---
 
@@ -42,7 +42,13 @@ Developing **AI-driven computational models** for **real-time digital twins** an
 ## 📫 Connect with me
 
 <p align="center">
-  <a href="https://scholar.google.com/" target="_blank"><img src="google-scholar.svg" alt="Google Scholar" width="40" height="40"/></a>
-  <a href="https://www.linkedin.com/" target="_blank"><img src="linkedin.svg" alt="LinkedIn" width="40" height="40"/></a>
-  <a href="mailto:lucas@unizar.es"><img src="email.svg" alt="Email" width="40" height="40"/></a>
+  <a href="mailto:lucas@unizar.es" title="Gmail">
+    <img src="gmail.svg" alt="Gmail" width="40" height="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank" title="LinkedIn">
+    <img src="icons8-linkedin-50.png" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://scholar.google.com/citations?user=YOUR-SCHOLAR-ID" target="_blank" title="Google Scholar">
+    <img src="googlescholar.svg" alt="Google Scholar" width="40" height="40"/>
+  </a>
 </p>
