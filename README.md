@@ -28,8 +28,6 @@ I specialize in **computational mechanics**, **dynamical systems**, **artificial
   <img src="weightsandbiases.svg" alt="Weights & Biases" width="55" height="55"/>
 </p>
 
-*(If icons appear black, edit the `.svg` files to use `fill="currentColor"` or a static color inside the file — GitHub does not apply CSS or inline styles to external SVGs.)*
-
 ---
 
 ## 🧭 Current Position
