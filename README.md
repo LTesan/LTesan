@@ -18,14 +18,35 @@ I specialize in **computational mechanics**, **dynamical systems**, **artificial
 ---
 
 ## Proficient with:
-<p align="center">
-  <img src="python.svg" alt="Python" width="55" height="55" style="fill:#3C2179;"/>
-  <img src="anaconda.svg" alt="Anaconda" width="55" height="55" style="fill:#44A833;"/>
-  <img src="pytorch.svg" alt="PyTorch" width="55" height="55" style="fill:#EE4C2C;"/>
-  <img src="lightning.svg" alt="PyTorch Lightning" width="55" height="55" style="fill:#792EE5;"/>
-  <img src="pyg.svg" alt="PyTorch Geometric" width="55" height="55" style="fill:#3C2179;"/>
-  <img src="weightsandbiases.svg" alt="Weights & Biases" width="55" height="55" style="fill:#FFBE00;"/>
+<p align="center" style="display: flex; justify-content: center; gap: 10px;">
+  <img src="python.svg" alt="Python" class="icon purple">
+  <img src="anaconda.svg" alt="Anaconda" class="icon green">
+  <img src="pytorch.svg" alt="PyTorch" class="icon red">
+  <img src="lightning.svg" alt="PyTorch Lightning" class="icon violet">
+  <img src="pyg.svg" alt="PyTorch Geometric" class="icon purple">
+  <img src="weightsandbiases.svg" alt="Weights & Biases" class="icon yellow">
 </p>
+
+<style>
+  .icon {
+    width: 55px;
+    height: 55px;
+    color: inherit; /* base color */
+  }
+
+  .purple { color: #3C2179; }
+  .green { color: #44A833; }
+  .red { color: #EE4C2C; }
+  .violet { color: #792EE5; }
+  .yellow { color: #FFBE00; }
+
+  /* optional hover effect */
+  .icon:hover {
+    transform: scale(1.1);
+    transition: transform 0.2s ease;
+  }
+</style>
+
 
 ---
 
