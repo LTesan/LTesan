@@ -46,7 +46,7 @@ Developing **AI-driven computational models** for **real-time digital twins** an
     <img src="gmail.svg" alt="Gmail" width="40" height="40"/>
   </a>
   <a href="https://www.linkedin.com/in/lucas-tesan-ingbiozar/" target="_blank" title="LinkedIn">
-    <img src="icons8-linkedin.svg" alt="LinkedIn" width="40" height="40"/>
+    <img src="icons8-linkedin.svg" alt="LinkedIn" width="30" height="30"/>
   </a>
   <a href="https://scholar.google.es/citations?user=oPXUG4YAAAAJ&hl=es" target="_blank" title="Google Scholar">
     <img src="googlescholar.svg" alt="Google Scholar" width="40" height="40"/>
