@@ -42,13 +42,13 @@ Developing **AI-driven computational models** for **real-time digital twins** an
 ## 📫 Connect with me
 
 <p align="center">
-  <a href="mailto:lucas@unizar.es" title="Gmail">
+  <a href="mailto:ltesan@unizar.es" title="Gmail">
     <img src="gmail.svg" alt="Gmail" width="40" height="40"/>
   </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="_blank" title="LinkedIn">
+  <a href="ttps://www.linkedin.com/in/lucas-tesan-ingbiozar/" target="_blank" title="LinkedIn">
     <img src="icons8-linkedin-50.png" alt="LinkedIn" width="40" height="40"/>
   </a>
-  <a href="https://scholar.google.com/citations?user=YOUR-SCHOLAR-ID" target="_blank" title="Google Scholar">
+  <a href="https://scholar.google.es/citations?user=oPXUG4YAAAAJ&hl=es" target="_blank" title="Google Scholar">
     <img src="googlescholar.svg" alt="Google Scholar" width="40" height="40"/>
   </a>
 </p>
