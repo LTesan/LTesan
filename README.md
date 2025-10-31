@@ -1,4 +1,4 @@
-# Hi, I'm **Lucas**!
+# Hi, I'm **Lucas**! 👋
 
 🎓 **PhD Student | Computational Mechanics & AI Researcher**  
 Mechanical Engineer with a **Master’s in Biomedical Engineering** from the **University of Zaragoza**.  
@@ -10,50 +10,39 @@ I specialize in **computational mechanics**, **dynamical systems**, **artificial
 
 - ⚙️ **Real-time simulation** & model order reduction  
 - 🧠 **Scientific Machine Learning (SciML)** & **Physics-Informed Neural Networks (PINNs)**  
-- 🔗 **Neural Operators** 
+- 🔗 **Neural Operators**  
 - 🌐 **Message Passing Neural Networks (MPNNs)** & **Graph Neural Networks (GNNs)**  
 - 🎲 **Variational Autoencoders (VAEs)** & **probabilistic representations** of physical systems  
 - 💡 **Hybrid AI** for physics-based modeling and digital twins  
 
 ---
 
-## Proficient with:
-<p align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <img src="python.svg" alt="Python" class="icon purple">
-  <img src="anaconda.svg" alt="Anaconda" class="icon green">
-  <img src="pytorch.svg" alt="PyTorch" class="icon red">
-  <img src="lightning.svg" alt="PyTorch Lightning" class="icon violet">
-  <img src="pyg.svg" alt="PyTorch Geometric" class="icon purple">
-  <img src="weightsandbiases.svg" alt="Weights & Biases" class="icon yellow">
+## 💻 Proficient with
+
+<p align="center">
+  <img src="python.svg" alt="Python" width="55" height="55" />
+  <img src="anaconda.svg" alt="Anaconda" width="55" height="55" />
+  <img src="pytorch.svg" alt="PyTorch" width="55" height="55" />
+  <img src="lightning.svg" alt="PyTorch Lightning" width="55" height="55" />
+  <img src="pyg.svg" alt="PyTorch Geometric" width="55" height="55" />
+  <img src="weightsandbiases.svg" alt="Weights & Biases" width="55" height="55" />
 </p>
 
-<style>
-  .icon {
-    width: 55px;
-    height: 55px;
-    color: inherit; /* base color */
-  }
-
-  .purple { color: #3C2179; }
-  .green { color: #44A833; }
-  .red { color: #EE4C2C; }
-  .violet { color: #792EE5; }
-  .yellow { color: #FFBE00; }
-
-  /* optional hover effect */
-  .icon:hover {
-    transform: scale(1.1);
-    transition: transform 0.2s ease;
-  }
-</style>
-
+*(If icons appear black, edit the `.svg` files to use `fill="currentColor"` or a static color inside the file itself — GitHub does not apply CSS or inline styles to external SVGs.)*
 
 ---
 
 ## 🧭 Current Position
+
 📍 **Pre-doctoral Researcher** at the [**AMB Group**](https://amb.unizar.es/)  
-Developing **AI-driven computational models** for real-time digital twins and **biomechanical simulations**.
+Developing **AI-driven computational models** for **real-time digital twins** and **biomechanical simulations**.
 
 ---
 
-##
+## 📫 Connect with me
+
+<p align="center">
+  <a href="https://scholar.google.com/" target="_blank"><img src="google-scholar.svg" alt="Google Scholar" width="40" height="40"/></a>
+  <a href="https://www.linkedin.com/" target="_blank"><img src="linkedin.svg" alt="LinkedIn" width="40" height="40"/></a>
+  <a href="mailto:lucas@unizar.es"><img src="email.svg" alt="Email" width="40" height="40"/></a>
+</p>
