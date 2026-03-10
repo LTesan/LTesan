@@ -33,7 +33,7 @@ I specialize in **computational mechanics**, **dynamical systems**, **artificial
 ## 🧭 Current Position
 
 📍 **Pre-doctoral Researcher** at the [**AMB Group**](https://amb.unizar.es/)  
-Developing **AI-driven computational models** for **real-time digital twinns**.
+Developing **AI-driven computational models** for **real-time digital twins**.
 
 ---
 
